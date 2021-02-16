@@ -3,9 +3,12 @@
 # dependencies
 /node_modules
 /.pnp
-.pnp.js
+.pnp.js\
+
+# Jupyter checkpoints
 .ipynb_checkpoints/
 /.ipynb_checkpoints
+**/*.ipynb_checkpoints/
 
 # testing
 /coverage
