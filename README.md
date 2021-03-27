@@ -1,3 +1,5 @@
+
+
 <!-- REPOSITORY TITLE-->
 <h1 align="center">
     <strong>SentimentAnalysisEcuador2021</strong>
@@ -189,4 +191,15 @@ My Personal Website: ✨[TBD](https://github.com/TheWorstOne/)
 * [Jonnathan Campoberde](https://github.com/JonnHenry) a good friend and the co-author of this study
 * [aylliote](https://github.com/aylliote/senti-py) for the senti-py classifier tool in spanish
 
+<br><br>
 
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
