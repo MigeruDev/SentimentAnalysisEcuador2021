@@ -2,7 +2,7 @@
 <h1 align="center">
     <strong>SentimentAnalysisEcuador2021</strong>
 </h1>
-<h5>
+<h5 align="center">
     <center> Miguel Angel Macias, Jonnathan Campoberde <br/> 
     <i>Universidad de Cuenca <br/>  Facultad de Ingenieria - Escuela de Sistemas<br/> Cuenca, Ecuador</i>
     <br/> { mangel.maciasn, jonnathan.campoberde }@ucuenca.edu.ec</center>
