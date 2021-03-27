@@ -19,7 +19,6 @@
     <a href="https://github.com/TheWorstOne/SentimentAnalysisEcuador2021/pulls"><img src="https://img.shields.io/github/issues-pr/TheWorstOne/SentimentAnalysisEcuador2021" alt="Pull Requests Badge"/></a>
     <a href="https://github.com/TheWorstOne/SentimentAnalysisEcuador2021/issues"><img src="https://img.shields.io/github/issues/TheWorstOne/SentimentAnalysisEcuador2021" alt="Issues Badge"/></a>
     <a href="https://github.com/TheWorstOne/SentimentAnalysisEcuador2021/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/TheWorstOne/SentimentAnalysisEcuador2021?color=2b9348"></a>
-    <a href="https://github.com/TheWorstOne/SentimentAnalysisEcuador2021/blob/master/LICENSE"><img src="https://img.shields.io/github/license/TheWorstOne/SentimentAnalysisEcuador2021?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
 <p align="center"><i>Interested in the project? Please visit my <a href="https://github.com/TheWorstOne/">website</a></i></p>
@@ -189,7 +188,7 @@ My Personal Website: ✨[TBD](https://github.com/TheWorstOne/)
 * [Jonnathan Campoberde](https://github.com/JonnHenry) a good friend and the co-author of this study
 * [aylliote](https://github.com/aylliote/senti-py) for the senti-py classifier tool in spanish
 
-<br><br>
+<br>
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
