@@ -1,5 +1,3 @@
-
-
 <!-- REPOSITORY TITLE-->
 <h1 align="center">
     <strong>SentimentAnalysisEcuador2021</strong>
