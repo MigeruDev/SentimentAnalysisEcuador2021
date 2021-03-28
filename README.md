@@ -178,7 +178,7 @@ Then, in RQ3, the official results presented by the CNE could be compared with t
 <!-- CONTACT -->
 ## **Contact**
 
-Miguel Ángel Macías - 👨‍💻[Linkedin](https://www.linkedin.com/in/mangelladen/)
+Miguel Ángel Macías - 👨‍💻[Linkedin](https://www.linkedin.com/in/mangelladev/)
 
 My Personal Website: ✨[TBD](https://github.com/TheWorstOne/)
 
