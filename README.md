@@ -21,7 +21,7 @@
     <a href="https://github.com/TheWorstOne/SentimentAnalysisEcuador2021/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/TheWorstOne/SentimentAnalysisEcuador2021?color=2b9348"></a>
 </div>
 <br>
-<p align="center"><i>Interested in the project? Please visit my <a href="https://github.com/TheWorstOne/">website</a></i></p>
+<p align="center"><i>Interested in the project? Please visit my <a target="_blank" href="https://mangelladev.web.app/">website</a></i></p>
 <br>
 
 <!-- ABOUT THE PROJECT -->
@@ -180,7 +180,7 @@ Then, in RQ3, the official results presented by the CNE could be compared with t
 
 Miguel Ángel Macías - 👨‍💻[Linkedin](https://www.linkedin.com/in/mangelladev/)
 
-My Personal Website: ✨[TBD](https://github.com/TheWorstOne/)
+My Personal Website: ✨[mangelladev.com](https://mangelladev.web.app/)
 
 
 <!-- ACKNOWLEDGEMENTS -->
